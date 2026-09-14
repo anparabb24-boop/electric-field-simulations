@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "macOS",
+            "compilerPath": "/usr/bin/clang++",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "includePath": [
+                "${workspaceFolder}/src/glad/include",
+                "/opt/homebrew/include",
+                "${workspaceFolder}/**"
+            ],
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/System/Library/Frameworks/OpenGL.framework/Headers"
+            ],
+            "intelliSenseMode": "macos-clang-arm64"
+        }
+    ],
+    "version": 4
+}
