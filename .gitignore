@@ -1,8 +1,0 @@
-build/
-build-current/
-*.dSYM/
-.DS_Store
-gravity
-planet
-planet3d
-try1
